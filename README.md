@@ -2,3 +2,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=girawhale&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=girawhale)](https://solved.ac/girawhale)
+
