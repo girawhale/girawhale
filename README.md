@@ -1,14 +1,15 @@
 
 ## :wave: 안녕하세요! 
 
-> Java, Spring
+
 
 :baby:1996.01.10
 
 :email: [girawhale@naver.com](mailto:girawhale@naver.com)
 
-:newspaper: [girawhale.log](https://velog.io/@girawhale)
+:green_book: [girawhale.log](https://velog.io/@girawhale)
 
+<br/><br/><br/>
 
 
 ### :octocat: Github stats
