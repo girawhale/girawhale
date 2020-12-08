@@ -1,10 +1,6 @@
 
 ## :wave: 안녕하세요! 
 
-
-
-:baby: **1996.01.10**
-
 <a href="mailto:girawhale@naver.com"><img src="https://img.shields.io/badge/girawhale@naver.com-168DE2?style=flat-square&logo=Mail.Ru&logoColor=white"></a> <a href="https://velog.io/@girawhale"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Vimeo&logoColor=white"></a>
 
 <br/><br/><br/>
