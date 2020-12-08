@@ -1,8 +1,21 @@
 
-## 🖐 안녕하세요! 
+## :wave: 안녕하세요! 
+
+> Java, Spring
+
+:baby:1996.01.10
+
+:email: [girawhale@naver.com](mailto:girawhale@naver.com)
+
+:newspaper: [girawhale.log](https://velog.io/@girawhale)
+
+
+
+### :octocat: Github stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=girawhale&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### Solved.ac tier
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=girawhale)](https://solved.ac/girawhale)
 
