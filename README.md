@@ -3,11 +3,11 @@
 
 
 
-:baby:1996.01.10
+:baby: **1996.01.10**
 
-:email: [girawhale@naver.com](mailto:girawhale@naver.com)
+:email: [**girawhale@naver.com**](mailto:girawhale@naver.com)
 
-:green_book: [girawhale.log](https://velog.io/@girawhale)
+:green_book: [**velog girawhale.log**](https://velog.io/@girawhale)
 
 <br/><br/><br/>
 
