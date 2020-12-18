@@ -4,7 +4,7 @@
 <!--
 <h2 align="center">🐬 ME</h2>
 <p align="center">
-<a href="mailto:girawhale@naver.com"><img src="https://img.shields.io/badge/girawhale@naver.com-168DE2?style=flat-square&logo=Mail.Ru&logoColor=white"></a> <a href="https://velog.io/@girawhale"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Vimeo&logoColor=white"></a>
+<a href="mailto:girawhale@naver.com"><img src="https://img.shields.io/badge/girawhale@naver.com-168DE2?style=flat-square&logo=Mail.Ru&logoColor=white"></a> <a href="https://girawhale.tistory.com/"><img src="https://img.shields.io/badge/blog-black?style=flat-square&logoColor=white"></a>
 </p>
 <br/><br/>
 
